@@ -8,7 +8,7 @@
   "funding": "https://github.com/maplibre/maplibre-gl-js?sponsor=1",
   "repository": {
     "type": "git",
-    "url": "git://github.com/maplibre/maplibre-gl-js.git"
+    "url": "git://github.com/newlinefu/dash-diagonal-artifact.git#dash-line-distance-update-build"
   },
   "types": "dist/maplibre-gl.d.ts",
   "type": "module",
